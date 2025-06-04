@@ -7,6 +7,9 @@ body{
 h1{
   text-align: center;
 }
+p{
+  font-size: medium;
+}
 
 .todo-wrapper{
 background: #353434;

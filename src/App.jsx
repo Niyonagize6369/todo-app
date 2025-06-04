@@ -71,6 +71,9 @@ function App() {
   return (
     <div>
       <h2>Make a better Plan for your Life </h2>
+      <p>whoever you are, whatever you are lookinf fo we
+        have the perfect place for you
+      </p>
 
       <div className='todo-wrapper'>
         <div className='todo-input'>
